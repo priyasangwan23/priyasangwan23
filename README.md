@@ -1,5 +1,24 @@
-## Hi there 👋
+# Hi, I'm Priya 👋
 
+🎓 Computer Science Student  
+💻 Interested in Web Development and Backend Development  
+🌱 Currently learning Node.js, Express and MongoDB  
+🚀 Building beginner friendly projects to improve my skills
+
+📫 Connect with me:
+- LinkedIn: https://www.linkedin.com/in/priya-sangwan-a38037395
+- Email: sangwanpriya200@gmail.com
+
+- ## 🛠 Skills
+
+- JavaScript
+- Node.js
+- Express.js
+- MongoDB
+- C++
+- REST APIs
+
+- 
 <!--
 **priyasangwan23/priyasangwan23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
