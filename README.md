@@ -1,9 +1,9 @@
-# Hi, I'm Priya 👋
+<h1 align="center">Hi 👋, I'm Priya</h1>
+<h3 align="center">Computer Science Student | Backend Developer</h3>
 
-🎓 Computer Science Student  
-💻 Interested in Web Development and Backend Development  
-🌱 Currently learning Node.js, Express and MongoDB  
-🚀 Building beginner friendly projects to improve my skills
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;Node.js+Learner;MongoDB+Explorer;Always+Learning+New+Things&center=true&width=500&height=45">
+</p>
 
 📫 Connect with me:
 - LinkedIn: https://www.linkedin.com/in/priya-sangwan-a38037395
