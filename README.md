@@ -18,6 +18,8 @@
 
 ## 💫 About Me
 
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 🎓 **Computer Science Student** passionate about building robust backend systems
 
 💻 Currently diving deep into **MERN Stack Development**
