@@ -84,7 +84,7 @@
             • Session Management
           </p>
           <p>
-            <a href="#">
+            <a href="https://github.com/priyasangwan23/loginForm-">
               <img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white"/>
             </a>
             <a href="#">
@@ -118,16 +118,16 @@
     </tr>
     <tr>
       <td width="50%">
-        <h3 align="center">📝 MongoDB CRUD</h3>
+        <h3 align="center">🚀 E-Commerce API</h3>
         <div align="center">
-          <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="100%" alt="MongoDB CRUD"/>
+          <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="E-Commerce API"/>
           <p>
-            <strong>Complete CRUD application with MongoDB</strong>
+            <strong>Backend for e-commerce platform</strong>
           </p>
           <p>
-            • Database Design<br/>
-            • Query Optimization<br/>
-            • Data Relationships
+            • Product Management<br/>
+            • Shopping Cart<br/>
+            • Order Processing
           </p>
           <p>
             <a href="#">
@@ -140,16 +140,16 @@
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">🚀 E-Commerce API</h3>
+        <h3 align="center">📝 Task Manager API</h3>
         <div align="center">
-          <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="E-Commerce API"/>
+          <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="100%" alt="Task Manager"/>
           <p>
-            <strong>Backend for e-commerce platform</strong>
+            <strong>Task management system with Node.js</strong>
           </p>
           <p>
-            • Product Management<br/>
-            • Shopping Cart<br/>
-            • Order Processing
+            • User Authentication<br/>
+            • Task CRUD<br/>
+            • Priority Management
           </p>
           <p>
             <a href="#">
