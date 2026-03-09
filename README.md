@@ -11,7 +11,7 @@
   <a href="https://github.com/priyasangwan23"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/priya-sangwan-a38037395"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:sangwanpriya200@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-255E69?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  
 </p>
 
 ---
