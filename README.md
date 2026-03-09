@@ -18,8 +18,6 @@
 
 ## 💫 About Me
 
-<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
 🎓 **Computer Science Student** passionate about building robust backend systems
 
 💻 Currently diving deep into **MERN Stack Development**
@@ -74,7 +72,6 @@
       <td width="50%">
         <h3 align="center">🔐 Login System</h3>
         <div align="center">
-          <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%" alt="Login System"/>
           <p>
             <strong>Secure authentication system using Node.js + MongoDB</strong>
           </p>
@@ -96,7 +93,6 @@
       <td width="50%">
         <h3 align="center">🌐 REST API</h3>
         <div align="center">
-          <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="REST API"/>
           <p>
             <strong>Scalable RESTful API using Express</strong>
           </p>
@@ -120,7 +116,6 @@
       <td width="50%">
         <h3 align="center">🚀 E-Commerce API</h3>
         <div align="center">
-          <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="E-Commerce API"/>
           <p>
             <strong>Backend for e-commerce platform</strong>
           </p>
@@ -142,7 +137,6 @@
       <td width="50%">
         <h3 align="center">📝 Task Manager API</h3>
         <div align="center">
-          <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="100%" alt="Task Manager"/>
           <p>
             <strong>Task management system with Node.js</strong>
           </p>
