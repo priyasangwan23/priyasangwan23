@@ -11,7 +11,11 @@
   <a href="https://github.com/priyasangwan23"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/priya-sangwan-a38037395"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:sangwanpriya200@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-255E69?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=priyasangwan23&color=6a11cb&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 ---
@@ -63,103 +67,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🔐 Login System</h3>
-        <div align="center">
-          <p>
-            <strong>Secure authentication system using Node.js + MongoDB</strong>
-          </p>
-          <p>
-            • JWT Authentication<br/>
-            • Password Encryption<br/>
-            • Session Management
-          </p>
-          <p>
-            <a href="https://github.com/priyasangwan23/loginForm-">
-              <img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white"/>
-            </a>
-            <a href="#">
-              <img src="https://img.shields.io/badge/Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-            </a>
-          </p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">🌐 REST API</h3>
-        <div align="center">
-          <p>
-            <strong>Scalable RESTful API using Express</strong>
-          </p>
-          <p>
-            • CRUD Operations<br/>
-            • Error Handling<br/>
-            • Data Validation
-          </p>
-          <p>
-            <a href="#">
-              <img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white"/>
-            </a>
-            <a href="#">
-              <img src="https://img.shields.io/badge/Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-            </a>
-          </p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🚀 E-Commerce API</h3>
-        <div align="center">
-          <p>
-            <strong>Backend for e-commerce platform</strong>
-          </p>
-          <p>
-            • Product Management<br/>
-            • Shopping Cart<br/>
-            • Order Processing
-          </p>
-          <p>
-            <a href="#">
-              <img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white"/>
-            </a>
-            <a href="#">
-              <img src="https://img.shields.io/badge/Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-            </a>
-          </p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">📝 Task Manager API</h3>
-        <div align="center">
-          <p>
-            <strong>Task management system with Node.js</strong>
-          </p>
-          <p>
-            • User Authentication<br/>
-            • Task CRUD<br/>
-            • Priority Management
-          </p>
-          <p>
-            <a href="#">
-              <img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white"/>
-            </a>
-            <a href="#">
-              <img src="https://img.shields.io/badge/Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-            </a>
-          </p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
 
 ---
 
