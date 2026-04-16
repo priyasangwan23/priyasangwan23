@@ -97,21 +97,3 @@
 
 ---
 
-## 📚 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Understanding JWT Authentication in Node.js](https://dev.to/priyasangwan23)
-- [MongoDB Schema Design Best Practices](https://dev.to/priyasangwan23)
-- [Building RESTful APIs with Express](https://dev.to/priyasangwan23)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 💡 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   12 hrs 30 mins  ████████████░░░░░░░░░   58.5%
-JSON         3 hrs 45 mins   ████░░░░░░░░░░░░░░░░░   17.3%
-Markdown     2 hrs 15 mins   ██░░░░░░░░░░░░░░░░░░░   10.4%
-Other        3 hrs           ███░░░░░░░░░░░░░░░░░░   13.8%
