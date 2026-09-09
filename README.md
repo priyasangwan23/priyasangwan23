@@ -1,5 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Priya%20Sangwan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
+<div align="center">
+  <img src="assets/portrait-animated.svg" width="350" alt="Animated Portrait">
+</div>
+
 <h1 align="center">Hi 👋, I'm Priya Sangwan</h1>
 <h3 align="center">Computer Science Student | Backend Developer | API Enthusiast</h3>
 
@@ -21,8 +25,6 @@
 ---
 
 ## 💫 About Me
-
-<img align="right" alt="Portrait" width="350" src="assets/portrait.svg">
 
 🎓 **Computer Science Student** passionate about building robust backend systems
 
