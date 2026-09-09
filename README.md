@@ -2,7 +2,7 @@
   <img src="assets/portrait-animated.svg" width="350" alt="Animated Portrait">
 </div>
 
-<h1 align="center">Hi 👋, I'm Priya Sangwan</h1>
+<h1 align="center">Hi, I'm Priya Sangwan</h1>
 <h3 align="center">Computer Science Student | Backend Developer | API Enthusiast</h3>
 
 <p align="center">
