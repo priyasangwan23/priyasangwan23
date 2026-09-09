@@ -1,0 +1,16 @@
+{
+  "projects": [
+    {
+      "repo": "priyasangwan23/ai-customer-support",
+      "title": "🤖 Chatbot for Modern Applications",
+      "description": "SupportSense AI is a smart, scalable chatbot system that provides: Instant responses using FAQ-based intelligence, AI-like replies without relying on paid APIs, and Voice-enabled interaction for faster communication.",
+      "stack": "Node.js, Express, React, MongoDB"
+    },
+    {
+      "repo": "priyasangwan23/eventsphere",
+      "title": "🌐 A Full Stack Event Discovery & Networking Platform",
+      "description": "EventSphere is a full stack event discovery and networking platform that enables users to explore, manage, and participate in global events such as workshops, hackathons, and conferences.",
+      "stack": "Node.js, Express, React, MongoDB"
+    }
+  ]
+}
