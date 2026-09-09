@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Priya%20Sangwan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-
 <div align="center">
   <img src="assets/portrait-animated.svg" width="350" alt="Animated Portrait">
 </div>
@@ -86,14 +84,6 @@
 ## 🐍 Contribution Snake
 
 <img src="https://raw.githubusercontent.com/priyasangwan23/priyasangwan23/output/snake-dark.svg" width="100%" alt="Snake">
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=priyasangwan23&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
-</div>
 
 ---
 
